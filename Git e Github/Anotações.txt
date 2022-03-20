@@ -1,0 +1,31 @@
+## Alguns comandos:
+
+Windows:
+
+dir - Lista de Diretórios
+cd (Change Director) - Mudar Diretório
+cd + NOME DA PASTA - Entrar em pasta específica
+cd.. - Volta um nível da navegação
+cls (clear screen) - Limpa o terminal
+TAB - Atalho de Autocompletar (Evitar erro de digitação)
+mkdir + 'nome' - Criar uma pasta
+echo + 'texto' > 'nome.txt' - Cria um arquivo de texto
+del + 'nomeDaPasta' - Deleta conteúdo da pasta, arquivos (S/N)
+rmdir (Remove Director) - Deleta pasta (/S /Q ??)
+
+git clone + site - Clona repositório direto do github
+
+git commit - Fazer um commit no repositórioo
+
+-m “ ” - Enviar mensagem no commit
+
+Linux:
+
+ld - Lista de Diretórios
+cs (Change Director) - Mudar Diretório
+cs + NOME DA PASTA - Entrar em pasta específica
+cd.. - Volta um nível da navegação
+clear (clear screen) - Limpa o terminal (Ctrl + L)
+mkdir + 'nome' - Criar uma pasta
+echo + 'texto' > 'nome.txt' - Cria um arquivo de texto
+rm -rf - Deleta Pasta
